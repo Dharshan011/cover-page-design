@@ -28,8 +28,6 @@ Publish the website in the given URL.
 ## Step 7:
 Validate the HTML and CSS code.
 
-
-
 ## PROGRAM :
 ```
 <!DOCTYPE html>
@@ -47,8 +45,6 @@ Validate the HTML and CSS code.
             background-color: rgb(48,48,48);
             margin-left: auto;
             margin-right: auto;
-            
-            
         }
         p {
             color:white;
@@ -70,11 +66,6 @@ Validate the HTML and CSS code.
             padding-right:90px;
             padding-left:45px;
         }
-        
-        
-
-
-        
         .toptitle {
             color: white;
             font-size:15px;
@@ -83,7 +74,6 @@ Validate the HTML and CSS code.
             left:35px;
             top:25px;
             font-family: Arial, Helvetica, sans-serif;
-        
         }
         .tophr {
             width: 200px;
@@ -136,7 +126,6 @@ Validate the HTML and CSS code.
         }
         </style>
     </head>
-    
     <body>
         <div class="bookpage">
             <div class="toptitle">
@@ -146,15 +135,13 @@ Validate the HTML and CSS code.
                 <hr color="orangered">
             </div>
         <p>
-        
             Responsive Web Design with 
             HTML5 and CSS
         <div class="pp">
         
                 Develop future-proof responsive websites
                 using the latest HTML5 and CSS techniques
-            
-        </div>
+           </div>
         <div class="image">
             <img src="/static/images/wave1.png" width="700" hight="100" margin-bottom="0px">
         </div>
@@ -180,7 +167,6 @@ Validate the HTML and CSS code.
 
 ## OUTPUT:
 ![logo](https://user-images.githubusercontent.com/113497491/214314290-7fe474ee-3d94-42e3-b4be-3f244c984cf6.png)
-
 
 ## Result:
 Thus a website to display the cover page design of a book was successfully created.
